@@ -22,6 +22,8 @@ Implementér Animal Base, videolink på vej
 
 ## Ons 1/11
 
+RTFM, Jonas online 8:30-10:00, ish
+
 ## Tor 2/11
 
 NextJS med Mathias fra Forte Advice
