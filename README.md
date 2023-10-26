@@ -6,8 +6,11 @@ Slides for alle dage https://courses-a2023.kea-alt-del.dk/react/
 
 1. Introduktion til React
 2. Props, import, children and mapping
+3. Styling
 
 ### Selvstudie
+
+[Opgaver](homework/w1/mon/)
 
 ## Tir 31/10
 
