@@ -18,7 +18,7 @@ Slides for alle dage https://courses-a2023.kea-alt-del.dk/react/
 
 ### Selvstudie
 
-Implementér Animal Base
+Implementér Animal Base, videolink på vej
 
 ## Ons 1/11
 
