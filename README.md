@@ -1,8 +1,21 @@
 # Planen, React A2023
 
+Slides for alle dage https://courses-a2023.kea-alt-del.dk/react/
+
 ## Man 30/10
 
+1. Introduktion til React
+2. Props, import, children and mapping
+
+### Selvstudie
+
 ## Tir 31/10
+
+1. mini-animal-base
+
+### Selvstudie
+
+Implementér Animal Base
 
 ## Ons 1/11
 
