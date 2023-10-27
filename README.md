@@ -5,7 +5,7 @@ Slides for alle dage https://courses-a2023.kea-alt-del.dk/react/
 ## Man 30/10
 
 1. Introduktion til React
-2. Props, import, children and mapping
+2. `props`, `import/export`, `children` og `mapping`
 3. Styling
 
 ### Selvstudie
@@ -14,7 +14,10 @@ Slides for alle dage https://courses-a2023.kea-alt-del.dk/react/
 
 ## Tir 31/10
 
-1. mini-animal-base
+1. events
+2. state
+3. keys
+4. mini-animal-base
 
 ### Selvstudie
 
@@ -33,6 +36,8 @@ NextJS med Mathias fra Forte Advice
 NextJS med Mathias fra Forte Advice
 
 ## Man 6/11
+
+1. Mini Todo App
 
 ## Tir 7/11
 
